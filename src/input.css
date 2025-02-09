@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+    @font-face{
+        font-family: "iran-light";
+        src: url(font\IRANSansXFaNum-Light.ttf) format('truetype');
+    }
