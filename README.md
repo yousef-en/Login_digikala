@@ -1,3 +1,17 @@
 
+# Installation
 
-![s](https://github.com/user-attachments/assets/747f4ce1-5297-4d8e-aeca-b072540cbfe9)
+To run a Tailwind CSS project, follow these steps:
+
+Install Node.jsand npm:
+
+Ensure you have Node.jsand npm installed on your system. If not, download and install them from nodejs.org.
+
+ Install the dependencies:
+   ```bash
+   npm install
+```
+
+# start
+ `npm run dev`
+
